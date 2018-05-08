@@ -1,8 +1,8 @@
-module Dance 
+module Dance
   def twirl
     "I'm Twirling"
   end
-  def jump 
+  def jump
     "Look how high I'm jumping!"
   end
   def pirouette
